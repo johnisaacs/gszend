@@ -1,0 +1,882 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZEND\n"
+"POT-Creation-Date: 2013-02-02 15:30+0530\n"
+"PO-Revision-Date: 2013-02-02 15:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr "Installer des extensions obligatoires"
+
+#: ../class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr "Installer les extensions"
+
+#: ../class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installation de l'extension: %s"
+
+#: ../class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Quelque chose s'est mal passé."
+
+#: ../class-tgm-plugin-activation.php:178
+#: ../class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr "Retourner à l'installateur des extensions"
+
+#: ../class-tgm-plugin-activation.php:179
+#: ../class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr "Extension activé avec succès."
+
+#: ../class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions sont installés et activés avec succès. %1$s"
+
+#: ../class-tgm-plugin-activation.php:517
+#: ../class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: ../class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "L'extension suivante fut activée avec succès: %s."
+
+#: ../class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "Ne pas prendre compte de cet avis"
+
+#: ../class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "Lien externe"
+
+#: ../class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Dépôt privé"
+
+#: ../class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "Préemballés"
+
+#: ../class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "Dépot WordPress"
+
+#: ../class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "Requis"
+
+#: ../class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: ../class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "Non installé"
+
+#: ../class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "Installé mais pas activé"
+
+#: ../class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Aucune extension à installé ou activé. <a href=\"%1$s\" title=\"Return to "
+"the Dashboard\">Retour au tableau de bord</a>"
+
+#: ../class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "Extension"
+
+#: ../class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "Source"
+
+#: ../class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "Type"
+
+#: ../class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "Statut"
+
+#: ../class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "Installé"
+
+#: ../class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "Activé"
+
+#: ../class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "Le paquet d'installation n'est pas disponible."
+
+#: ../class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Téléchargement du paquet d'installation de <span class=\"code\">%s</"
+"span>&#8230;"
+
+#: ../class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Décompression du paquet&#8230;"
+
+#: ../class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Installation de l'extension&#8230;"
+
+#: ../class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "Installation de l'extension à échoué"
+
+#: ../class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "L'extension fut installé avec succès."
+
+#: ../class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "Activation de l'extension à échoué"
+
+#: ../class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Le processus d'installation et d'activation commence. Ce processus peut "
+"prendre un certain temps sur certains hôtes, donc s'il vous plaît soyez "
+"patient."
+
+#: ../class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s est installé et activé avec succès."
+
+#: ../class-tgm-plugin-activation.php:1956
+#: ../class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#: ../class-tgm-plugin-activation.php:1956
+#: ../class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "Masquer Détails"
+
+#: ../class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et les activations ont été achevés."
+
+#: ../class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l'extension %1$s (%2$d/%3$d)"
+
+#: ../class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Le processus d'installation commence. Ce processus peut prendre un certain "
+"temps sur certains hôtes, donc s'il vous plaît soyez patient."
+
+#: ../class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Une erreur s'est produite lors de l'installation de %1$s: <strong>%2$s</ "
+"strong>."
+
+#: ../class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s a échoué."
+
+#: ../class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installé avec succès."
+
+#: ../class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont été complétées."
+
+#: ../class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l'extension %1$s (%2$d/%3$d)"
+
+#: ../functions.php:188
+#, php-format
+msgid "<span class=\"author\">%s</span>"
+msgstr "<span class=\"author\">%s</span>"
+
+#: ../functions.php:191
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../functions.php:191
+msgid "(Edit)"
+msgstr "(Éditer)"
+
+#: ../functions.php:199
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: ../404.php:17 ../archive.php:163 ../single.php:283 ../page.php:51
+#: ../index.php:128 ../template-archives.php:151 ../template-contact.php:189
+#: ../template-full-width.php:53 ../search.php:68
+msgid "Error 404 - Not Found"
+msgstr "Erreur 404 - Désolé, mais il n'y a rien"
+
+#: ../404.php:24 ../single.php:285 ../page.php:53
+#: ../template-full-width.php:55
+msgid ""
+"Sorry, but you are looking for something that isn't here. Try another search"
+msgstr ""
+"Désolé, mais vous cherchez quelque chose qui n'est pas ici. Essayez une "
+"autre recherche"
+
+#: ../archive.php:23 ../archive.php:25
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../archive.php:33
+msgid "Posts by"
+msgstr "Publié par"
+
+#: ../archive.php:35
+msgid "Blog Archives"
+msgstr "Archives du blog"
+
+#: ../archive.php:79 ../archive.php:125 ../single.php:22 ../single.php:150
+#: ../single.php:228 ../index.php:44 ../index.php:90 ../template-home.php:55
+#: ../template-home.php:162 ../template-home.php:278 ../search.php:42
+#: ../functions/widget-posts.php:83
+msgid "by"
+msgstr "de"
+
+#: ../archive.php:93 ../archive.php:139 ../index.php:58 ../index.php:104
+#: ../template-home.php:292 ../search.php:56
+msgid "Read More"
+msgstr "Lire plus"
+
+#: ../archive.php:167 ../index.php:132 ../template-archives.php:155
+#: ../template-contact.php:193 ../search.php:74
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Désolé, mais vous cherchez quelque chose qui n'est pas ici."
+
+#: ../archive.php:183 ../index.php:148 ../search.php:93
+msgid "&larr; Older Entries"
+msgstr "&larr; Articles plus anciens"
+
+#: ../archive.php:184 ../index.php:149 ../search.php:94
+msgid "Newer Entries &rarr;"
+msgstr "Nouvelles entrées &rarr;"
+
+#: ../single.php:48
+msgid "About the Author"
+msgstr "À propos de l'auteur"
+
+#: ../single.php:56
+msgid "Follow on Twitter"
+msgstr "Suivre sur Twitter"
+
+#: ../single.php:64
+msgid "Me on Facebook"
+msgstr "Moi sur Facebook"
+
+#: ../single.php:95
+msgid "Related Posts"
+msgstr "Articles en liens"
+
+#: ../searchform.php:3
+msgid "Search for something"
+msgstr "Recherche de quelque chose"
+
+#: ../searchform.php:4
+msgid "Go"
+msgstr "Go"
+
+#: ../header.php:75 ../header.php:100
+msgid "Type Keyword and hit enter"
+msgstr "Écrire un mot et appuyez sur retour"
+
+#: ../header.php:76 ../header.php:101
+msgid "go"
+msgstr "go"
+
+#: ../footer.php:63
+msgid "&uarr;"
+msgstr "&uarr;"
+
+#: ../comments.php:22
+msgid "Trackbacks for this post"
+msgstr "Rétroliens pour ce billet"
+
+#: ../comments.php:56 ../template-contact.php:142
+msgid "Name"
+msgstr "Nom"
+
+#: ../comments.php:59 ../template-contact.php:113 ../template-contact.php:150
+msgid "Email"
+msgstr "Courriel"
+
+#: ../comments.php:66
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Laisser un commentaire à% s"
+
+#: ../comments.php:67
+msgid "Cancel reply"
+msgstr "Annuler la réponse"
+
+#: ../comments.php:68
+msgid "Submit Comment"
+msgstr "Envoyer un commentaire"
+
+#: ../template-archives.php:115
+msgid "in category"
+msgstr "dans la catégorie"
+
+#: ../template-contact.php:105
+msgid "Address"
+msgstr "Adresse"
+
+#: ../template-contact.php:126
+msgid "Thanks, your email was sent successfully."
+msgstr "Merci, votre courriel fut envoyé avec succès."
+
+#: ../template-contact.php:134
+msgid "Sorry, an error occurred."
+msgstr "Désolé, une erreur s'est produite."
+
+#: ../template-contact.php:160
+msgid "Your Message"
+msgstr "Votre message"
+
+#: ../template-contact.php:170
+msgid "Send Message"
+msgstr "Envoyer"
+
+#: ../search.php:12
+msgid "Search Results for "
+msgstr "Résultats de la recherche pour"
+
+#: ../functions/widget-tags.php:28
+msgid "This widget creates stylish custom tags or category links"
+msgstr ""
+"Ce widget permet de créer des mots-clés élégants ou des liens de catégorie"
+
+#: ../functions/widget-tags.php:31
+msgid "Custom Category Widget"
+msgstr "Widget catégorie personnalisée"
+
+#: ../functions/widget-tags.php:120 ../functions/widget-flickr.php:91
+#: ../functions/widget-video.php:83 ../functions/widget-ad125.php:147
+#: ../functions/widget-posts.php:138 ../functions/widget-twitter.php:104
+msgid "Title:"
+msgstr "Titre:"
+
+#: ../functions/widget-tags.php:126
+msgid "Taxonomy:"
+msgstr "Taxonomie:"
+
+#: ../functions/widget-tags.php:187
+msgid "Exclude tags from cloud"
+msgstr "Exclure les mots-clés du nuage"
+
+#: ../functions/widget-flickr.php:30
+msgid "Show up your flickr photostream"
+msgstr "Montrer votre flux de photos FlickR"
+
+#: ../functions/widget-flickr.php:33
+msgid "Flickr Photostream"
+msgstr "Flux de photos FlickR"
+
+#: ../functions/widget-flickr.php:96
+msgid "Your Flickr ID:"
+msgstr "Votre ID FlickR:"
+
+#: ../functions/widget-flickr.php:101
+msgid "Number of Photos(Max 10):"
+msgstr "Nombre de photos(Max 10):"
+
+#: ../functions/widget-flickr.php:106
+msgid "Display images(randomly or latest):"
+msgstr "Afficher les photos(aléatoire or dernière):"
+
+#: ../functions/widget-video.php:28
+msgid "Widget embeds videos from video services like vimeo, youtube etc"
+msgstr ""
+"Widget intègre des vidéos à partir des services vidéo comme vimeo, youtube "
+"etc"
+
+#: ../functions/widget-video.php:31
+msgid "Custom Video Widget"
+msgstr "Widget video personnalisé"
+
+#: ../functions/widget-video.php:88
+msgid "Embed Code:"
+msgstr "Intégrer le code:"
+
+#: ../functions/widget-ad125.php:28
+msgid ""
+"This widget allows to display and configur four 125x125 ads blocks in your "
+"sidebar"
+msgstr ""
+"Ce widget permet d'afficher et de configurer quatre blocs de pubs 125x125 "
+"dans votre barre latérale"
+
+#: ../functions/widget-ad125.php:31
+msgid "Custom 125x125 Ads"
+msgstr "Pubs 125x125 personnalisé"
+
+#: ../functions/widget-ad125.php:153
+msgid "Ad 1 image url:"
+msgstr "Pub 1 image URL:"
+
+#: ../functions/widget-ad125.php:159
+msgid "Ad 1 link url:"
+msgstr "Pub 1 lien URL:"
+
+#: ../functions/widget-ad125.php:165
+msgid "Ad 2 image url:"
+msgstr "Pub 2 image URL:"
+
+#: ../functions/widget-ad125.php:171
+msgid "Ad 2 link url:"
+msgstr "Pub 2 lien URL:"
+
+#: ../functions/widget-ad125.php:177
+msgid "Ad 3 image url:"
+msgstr "Pub 3 image URL:"
+
+#: ../functions/widget-ad125.php:183
+msgid "Ad 3 link url:"
+msgstr "Pub 3 lien URL:"
+
+#: ../functions/widget-ad125.php:189
+msgid "Ad 4 image url:"
+msgstr "Pub 4 image URL:"
+
+#: ../functions/widget-ad125.php:195
+msgid "Ad 4 link url:"
+msgstr "Pub 4 lien URL:"
+
+#: ../functions/widget-posts.php:29
+msgid ""
+"Custom posts widget to show popular,latest and category posts with thumbnails"
+msgstr ""
+
+#: ../functions/widget-posts.php:32
+#, fuzzy
+msgid "Custom Posts Widget"
+msgstr "Widget video personnalisé"
+
+#: ../functions/widget-posts.php:143
+#, fuzzy
+msgid "Choose category"
+msgstr "dans la catégorie"
+
+#: ../functions/widget-posts.php:152
+msgid "Posts to display:"
+msgstr "Articles à afficher:"
+
+#: ../functions/widget-posts.php:157
+msgid "Show thumbnail"
+msgstr "Afficher aperçu"
+
+#: ../functions/widget-posts.php:159 ../functions/widget-posts.php:167
+msgid "Yes"
+msgstr "Oui"
+
+#: ../functions/widget-posts.php:160 ../functions/widget-posts.php:168
+msgid "No"
+msgstr "Non"
+
+#: ../functions/widget-posts.php:165
+msgid "Show date and author"
+msgstr "Afficher date et auteur"
+
+#: ../functions/widget-twitter.php:27
+msgid "Widget embeds tweets from your twitter timeline on your blog"
+msgstr "Widget intègre les tweets de votre timeline twitter sur votre blog"
+
+#: ../functions/widget-twitter.php:30
+msgid "Custom Twitter Widget"
+msgstr "Widget Twitter personnalisé"
+
+#: ../functions/widget-twitter.php:95
+msgid "My latest tweets"
+msgstr "Mes derniers tweets"
+
+#: ../functions/widget-twitter.php:108
+msgid "Twitter Username:"
+msgstr "Nom d'usager Twitter:"
+
+#: ../functions/widget-twitter.php:112
+msgid "Tweets to show:"
+msgstr "Tweets à afficher:"
+
+#: ../functions/widget-twitter.php:116
+msgid "Follow me text:"
+msgstr "Le texte me suivre:"
+
+#: ../admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr "Options"
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr "Galerie"
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr "Téléchargé auparavant"
+
+#: ../admin/functions/functions.options.php:29
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#: ../admin/functions/functions.options.php:40
+msgid "Custom Favicon"
+msgstr "Favicon personnalisée"
+
+#: ../admin/functions/functions.options.php:41
+msgid ""
+"Upload a 16px X 16px Png/Gif image that will represent your website's "
+"favicon."
+msgstr ""
+"Ajouter une image 16px x 16px PNG / GIF qui représentera le favicon de votre "
+"site web."
+
+#: ../admin/functions/functions.options.php:46
+msgid "Contact Form Email Address"
+msgstr "Adresse électronique de formulaire"
+
+#: ../admin/functions/functions.options.php:47
+msgid ""
+"Enter the email address where you'd like to receive emails from the contact "
+"form, or leave blank to use admin email."
+msgstr ""
+"Entrez l'adresse email à laquelle vous souhaitez recevoir des courriels à "
+"partir du formulaire de contact, ou laisser vide pour utiliser le courriel "
+"admin."
+
+#: ../admin/functions/functions.options.php:52
+msgid "FeedBurner URL"
+msgstr "URL FeedBurner"
+
+#: ../admin/functions/functions.options.php:53
+msgid ""
+"Enter your full FeedBurner URL (or any other preferred feed URL) if you wish "
+"to use FeedBurner over the standard WordPress Feed e.g. http://feeds."
+"feedburner.com/yoururlhere"
+msgstr ""
+"Entrez votre URL FeedBurner complète (ou tout autre flux préféré URL) si "
+"vous souhaitez utiliser FeedBurner au lieu du flux stamdard de WordPress, "
+"http://feeds.feedburner.com/yoururlhere"
+
+#: ../admin/functions/functions.options.php:58
+msgid "Tracking Code"
+msgstr "Suivi de code"
+
+#: ../admin/functions/functions.options.php:59
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. It will be "
+"inserted before the closing body tag of your theme."
+msgstr ""
+"Coller votre code Google Analytics (ou autre). Il sera inséré avant la "
+"balise BODY."
+
+#: ../admin/functions/functions.options.php:64
+msgid "Footer copyright text"
+msgstr "Pied de texte de copyright"
+
+#: ../admin/functions/functions.options.php:65
+msgid "Enter the name to whom the footer copyright text should address"
+msgstr "Entrez le nom à qui le texte de copyright pied de page doit répondre"
+
+#: ../admin/functions/functions.options.php:70
+msgid "Enable comments on pages"
+msgstr "Activer les commentaires sur les pages"
+
+#: ../admin/functions/functions.options.php:71
+msgid "Check this box to enable comments on pages"
+msgstr "Cochez cette case pour activer les commentaires sur les pages"
+
+#: ../admin/functions/functions.options.php:76
+msgid "Enable Plain Text Logo"
+msgstr "Activer le logo en texte simple"
+
+#: ../admin/functions/functions.options.php:77
+msgid "Check this to enable a plain text logo rather than an image."
+msgstr ""
+"Cochez cette case pour permettre un logo texte brut plutôt que d'une image."
+
+#: ../admin/functions/functions.options.php:82
+msgid "Custom Logo"
+msgstr "Logo personnalisé"
+
+#: ../admin/functions/functions.options.php:83
+msgid ""
+"Upload a logo for your theme, or specify the image address of your online "
+"logo. (http://example.com/logo.png)"
+msgstr ""
+"Chargez un logo pour votre thème, ou spécifier l'adresse url de votre logo "
+"en ligne. (http://example.com/logo.png)"
+
+#: ../admin/functions/functions.options.php:93
+msgid "Enable Twitter icon"
+msgstr "Activer l'icone Twitter"
+
+#: ../admin/functions/functions.options.php:94
+msgid "Check this box to enable twitter icon in the header"
+msgstr "Cochez cette case pour activer l'icône twitter dans l'en-tête"
+
+#: ../admin/functions/functions.options.php:100
+msgid "Fill your twitter username"
+msgstr "Remplissez votre nom d'utilisateur twitter"
+
+#: ../admin/functions/functions.options.php:101
+msgid "Only fill you twitter username not the entire url"
+msgstr "Remplissez seulement votre nom d'usager Twitter et non l'URL complet"
+
+#: ../admin/functions/functions.options.php:107
+msgid "Enable Pinterest icon"
+msgstr "Activer l'icône Pinterest"
+
+#: ../admin/functions/functions.options.php:108
+msgid "Check this box to enable pinterest icon in the header"
+msgstr "Cochez cette case pour activer l'icône Pinterest dans l'en-tête"
+
+#: ../admin/functions/functions.options.php:114
+msgid "Your Pinterest username"
+msgstr "Votre nom d'utilisateur Pinterest"
+
+#: ../admin/functions/functions.options.php:115
+msgid "Only fill you pinterest username not the entire url"
+msgstr "Remplissez seulement votre nom d'usager Pinterest et non l'URL complet"
+
+#: ../admin/functions/functions.options.php:121
+msgid "Enable Facebook icon"
+msgstr "Activer l'icone Facebook"
+
+#: ../admin/functions/functions.options.php:122
+msgid "Check this box to enable facebook icon in the header"
+msgstr "Cochez cette case pour activer l'icône facebook dans l'en-tête"
+
+#: ../admin/functions/functions.options.php:128
+msgid "Fill your facebook url"
+msgstr "Remplir l'URL de votre Facebook"
+
+#: ../admin/functions/functions.options.php:129
+msgid "Fill your facebook profile or fanpage url here"
+msgstr "Remplissez votre profil facebook ou l'URL fanpage ici"
+
+#: ../admin/functions/functions.options.php:135
+msgid "Enable LinkedIn icon"
+msgstr "Activer l'icône LinkedIn"
+
+#: ../admin/functions/functions.options.php:136
+msgid "Check this box to enable LinkedIn icon in the header"
+msgstr "Cochez cette case pour activer l'icône LinkedIn dans l'en-tête"
+
+#: ../admin/functions/functions.options.php:142
+msgid "Fill your LinkedIn url"
+msgstr "Remplir votre URL LinkedIn"
+
+#: ../admin/functions/functions.options.php:143
+msgid "Fill your linked profile url here"
+msgstr "Remplir l'URL de votre profil LinkedIn ici"
+
+#: ../admin/functions/functions.options.php:149
+msgid "Enable RSS icon"
+msgstr "Activer icône RSS"
+
+#: ../admin/functions/functions.options.php:150
+msgid "Check this box to enable RSS icon in the header"
+msgstr "Cochez cette case pour activer l'icône RSS dans l'en-tête"
+
+#: ../admin/functions/functions.options.php:156
+msgid "Your RSS url"
+msgstr "URL de votre RSS"
+
+#: ../admin/functions/functions.options.php:157
+msgid "Fill your RSS feed url here"
+msgstr "Remplir l'URL de votre flux RSS ici"
+
+#: ../admin/functions/functions.options.php:190
+msgid "Enable Section one"
+msgstr "Activer première section"
+
+#: ../admin/functions/functions.options.php:191
+msgid "This is the posts section below slider. Check the box to enable it"
+msgstr ""
+"Il s'agit de la section en-dessous du diaporama. Cochez la case pour "
+"l'activer"
+
+#: ../admin/functions/functions.options.php:197
+msgid "Enable slider in section one"
+msgstr "Activer le diaporama dans la première section"
+
+#: ../admin/functions/functions.options.php:198
+msgid ""
+"Check this box to enable slider option in section one else posts will be "
+"shown traditionally"
+msgstr ""
+"Cochez cette case pour activer l'option diaporama dans la section le reste "
+"sera montré traditionnellement"
+
+#: ../admin/functions/functions.options.php:204
+#: ../admin/functions/functions.options.php:242
+msgid "Number of posts"
+msgstr "Nombre de publications"
+
+#: ../admin/functions/functions.options.php:205
+#: ../admin/functions/functions.options.php:243
+msgid "Enter number of posts to show for this section.Should be greater than 4"
+msgstr ""
+"Entrez le nombre de messages à afficher pour cette section. Doit être "
+"supérieur à 4"
+
+#: ../admin/functions/functions.options.php:211
+#: ../admin/functions/functions.options.php:249
+msgid "Section Category"
+msgstr "Section catégorie"
+
+#: ../admin/functions/functions.options.php:212
+#: ../admin/functions/functions.options.php:250
+msgid ""
+"Select the catergory of section for which you want the posts to be shown"
+msgstr ""
+"Sélectionnez la catégorie de l'article pour lequel vous voulez que les "
+"messages à afficher"
+
+#: ../admin/functions/functions.options.php:228
+msgid "Enable Section two"
+msgstr "Activer la deuxième section"
+
+#: ../admin/functions/functions.options.php:229
+msgid ""
+"This is the posts section below section one or the last section on homepage. "
+"Check the box to enable it"
+msgstr ""
+"Cette section est la section en dessous de la section un ou la dernière "
+"section de la page d'accueil. Cochez la case pour l'activer"
+
+#: ../admin/functions/functions.options.php:235
+msgid "Enable slider in section two"
+msgstr "Activer le diaporama de la section deux"
+
+#: ../admin/functions/functions.options.php:236
+msgid ""
+"Check this box to enable slider option in section two else posts will be "
+"shown traditionally"
+msgstr ""
+"Cochez cette case pour activer l'option diaporama dans la section deux "
+"postes else sera montré traditionnellement"
+
+#: ../admin/functions/functions.options.php:261
+msgid "Enable Related posts"
+msgstr "Activer les articles semblable"
+
+#: ../admin/functions/functions.options.php:262
+msgid "Enable Related posts to be shown under the post on post page"
+msgstr ""
+"Activer les articles semblable à être afficher sous l'article de la page "
+"d'articles"
+
+#: ../admin/functions/functions.options.php:268
+msgid "No. of Related Posts"
+msgstr "Nombre d'articles semblable"
+
+#: ../admin/functions/functions.options.php:269
+msgid "Enter the number of related posts you wish to display"
+msgstr "Entrer le nombre d'articles semblables que vous souhaitez afficher"
+
+#: ../admin/functions/functions.options.php:275
+msgid "Related Post Type"
+msgstr "Type d'article semblable"
+
+#: ../admin/functions/functions.options.php:276
+msgid "Would you like to relate posts by tag or category?"
+msgstr ""
+"Voulez-vous des articles semblables en lien par mots-clés ou catégorie?"
+
+#: ../admin/functions/functions.options.php:284
+msgid "Enable Author's Bio"
+msgstr "Activer la bio de l'auteur"
+
+#: ../admin/functions/functions.options.php:285
+msgid "Enable author's bio to be shown under the post on post page"
+msgstr ""
+"Activer la bio de l'auteur à être afficher sous l'article de la page "
+"d'articles"
+
+#: ../admin/functions/functions.options.php:294
+msgid "Primary Theme Color"
+msgstr "Couleur thème principal"
+
+#: ../admin/functions/functions.options.php:307
+msgid "Select Theme Background"
+msgstr "Sélectionnez le fond du thème"
+
+#: ../admin/functions/functions.options.php:321
+msgid "Custom Background"
+msgstr "Fond personnalisée"
+
+#: ../admin/functions/functions.options.php:322
+msgid "Upload your own custom background"
+msgstr "Téléchargez votre propre fond personnalisé"
+
+#: ../admin/functions/functions.options.php:341
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr "Enregistrer toutes les modifications"
+
+#: ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr "Réinitialisation des pptions"
+
+#: ../admin/classes/class.options_machine.php:284
+msgid "Last Backup : "
+msgstr "Dernière mise-à-jour : "
+
+#: ../admin/classes/class.options_machine.php:344
+msgid "Upload"
+msgstr "Téléchargez"
+
+#~ msgid "The popular posts, with a preview thumb."
+#~ msgstr "Les articles populaire, avec un aperçu."
+
+#~ msgid "Custom Popular Posts"
+#~ msgstr "Articles populaire personnalisé"
+
+#~ msgid "The latest posts, with a preview thumb."
+#~ msgstr "Les derniers articles, avec un aperçu."
+
+#~ msgid "Custom Recent Posts"
+#~ msgstr "Derniers articles personnalisé"

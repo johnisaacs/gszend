@@ -1,0 +1,15 @@
+.ie .format-gallery .item{
+	width:100%;
+}
+.ie .post-thumb .overlay {
+  background: url("images/overlay.png") no-repeat 50% #000;
+}
+.ie #primary-nav ul ul {
+  background: #282828;
+}
+.ie.single-portfolio .left-entry {
+	width:23.37%;
+}
+.ie .footer_inner .copyright{
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+}

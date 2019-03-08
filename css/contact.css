@@ -1,0 +1,111 @@
+#contactForm.contactform{
+    margin: 0;
+    width: 100%;
+}
+#contactForm p{
+    float: left;
+	position:relative;
+}
+#contactForm li.buttons button {
+  border: medium none;
+  border-radius: 2px 2px 2px 2px;
+  color: #FFFFFF;
+  cursor: pointer;
+  float: right;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px 15px;
+}
+#contactForm li.buttons button:hover{
+	background:#353535;
+}
+#contactForm li{
+  float: left;
+  width: 305px;
+}
+#contactForm li.textarea{
+  width: 100%;
+}
+#contactForm li.name{
+  margin-right: 20px;
+}
+#contactForm li.buttons,#contactForm li.buttons p{
+	width:100%;
+	margin-bottom:0;
+}
+#contactForm input{
+  -moz-box-shadow: 0 2px 0 #F1F1F1 inset;
+	-webkit-box-shadow: 0 2px 0 #F1F1F1 inset;
+	box-shadow: 0 2px 0 #F1F1F1 inset;
+
+  border: 1px solid #D9D9D9;
+  float: left;
+  margin: 0 10px 0 0;
+  padding: 8px 16px;
+  width: 68%;
+}
+#contactForm textarea{
+  -moz-box-shadow: 0 2px 0 #F1F1F1 inset;
+	-webkit-box-shadow: 0 2px 0 #F1F1F1 inset;
+	box-shadow: 0 2px 0 #F1F1F1 inset;
+	
+  border: 1px solid #D9D9D9;
+  float: left;
+  height: 200px;
+  padding: 10px;
+  width: 97%;
+}
+#contactForm label {
+  color: #4D4A49;
+  float: left;
+  font-size: 14px;
+  padding: 0 0 8px;
+  width: 400px;
+}
+.contactform label span.star {
+  color: #FF0000;
+  margin-left: 2px;
+}
+
+
+
+.contactform {
+    margin-top: 20px;
+}
+.contact_details {
+    background: url("../images/hor_dash.png") repeat-x scroll 0 bottom transparent;
+    display: block;
+    padding: 20px 0 30px;
+    width: 100%;
+}
+.contact_details p {
+    margin-bottom: 0;
+}
+.contact_details h2 {
+    font-size: 17px;
+    line-height: 22px;
+    margin-bottom: 20px;
+}
+.contact_details h4 {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.contact_details .address, .contact_details .email {
+    float: left;
+    width: 50%;
+}
+.contact_details a:hover {
+    color: #444444;
+}
+#contactForm li label.error {
+    display: block;
+    font-size: 10px;
+    font-weight: normal;
+    margin: 2px 0 0;
+    text-transform: uppercase;
+}
+.thanks {
+  padding: 20px 0 0;
+  text-align: center;
+}
